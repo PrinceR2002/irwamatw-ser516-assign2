@@ -2,6 +2,8 @@ package com.example;
 
 public class Greeter {
 
+
+    //Making change per step 6
     public String greet(String name) {
         return "Hello, " + name + "!";
     }
